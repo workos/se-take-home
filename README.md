@@ -62,7 +62,7 @@ Plan for 4–6 focused hours. You have one week from receiving this assignment.
 
 1. **Deployed app**: a working URL (Vercel is the expected host).
 2. **Your repo**: a link to your copy for code review. If you make it private, coordinate reviewer access through your recruiting contact.
-3. **Test credentials**: one working login per scenario role inside the demo tenant organization, listed in `SUBMISSION.md`.
+3. **Test credentials**: one working login per scenario role inside the demo tenant organization, listed in `SUBMISSION.md`. Provide email/password credentials for a user that the reviewer may use in order to access the application as well as the WorkOS workspace.
 4. **Demo video**: 5–10 minutes, presented as if Meridian's team is watching. Show the app doing what the brief asks, and include a tour of your WorkOS dashboard explaining how you configured it. If recording isn't workable for you, a written walkthrough with screenshots is an accepted (second-best) alternative.
 5. **Completed `SUBMISSION.md`**: filled in and committed to your repo.
 
