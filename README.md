@@ -34,7 +34,7 @@ You will need a [WorkOS account](https://dashboard.workos.com/signup); the free 
    npm run dev
    ```
 
-One scenario note: the customer's SSO requirement names their Okta. You are not expected to have an Okta instance. The [WorkOS Test Identity Provider](https://workos.com/docs/sso/test-sso) is the sanctioned stand-in for the customer's IdP.
+One scenario note: the customer's SSO requirement names their Okta. You are expected to create a free-trial Okta developer account and set up a live Okta SSO connection. [Create a free Okta Developer account using this link](https://www.okta.com/free-trial).
 
 ## Required tooling
 
